@@ -13,4 +13,4 @@ It is a detector library for detect for objects with model trained with AutoGML 
 
 
 
-@all rights are reserved by AutoGML
+@all rights are reserved by AutoGML and Harshid Koladara
